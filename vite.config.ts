@@ -7,5 +7,4 @@ export default defineConfig({
     outDir: 'build',
     assetsDir: 'assets',
   },
-  base: '/internship.aldiyar.2024/',
 });
