@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Internship2024_Aldiyar_Ikhsan.github.io",
-  "name": "components-demo",
+  "homepage": "https://AldiyarIkhsan.github.io/AldiyarIkhsan.github.io/",
+  "name": "AldiyarIkhsan.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^1.6.8",
