@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react-swc";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/internship.aldiyar.2024/", // Убедитесь, что этот путь корректен
+  base: "/internship.aldiyar.2024/",
 });
